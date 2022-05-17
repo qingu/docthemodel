@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to 模式学习笔记's documentation!
+模式学习笔记
 ========================================
 
 .. toctree::
